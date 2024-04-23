@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 🤗
+
+I'm a PhD student at the University of Lausanne ✨
+
+ - I'm studying Economics 📈
+ - I'm currently working on a project that explores the ways NLP can be used to extract insights from economics text data 📚
+ - I'm mainly interested in NLP, Information Retrieval and RAG, and Computational Economics, as well as the theory of Deep Learning and Language Modeling.
+ - I'm currently learning how to combine huge datasets and modern NLP models efficiently 🔭
 
 <!--
 **mechanicpanic/mechanicpanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
