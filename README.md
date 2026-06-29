@@ -1,23 +1,14 @@
-### Hi 🤗
+### Hi, I'm Anna 👋
 
-I'm a PhD student at the University of Lausanne ✨
+Econ PhD at UNIL with a CS background, supervised by
+[Simon Scheidegger](#https://sischei.github.io/). I work where language modeling
+meets the question of how we measure anything at all —
+and where computational economics meets modern hardware.
 
- - I'm studying Economics 📈
- - I'm currently working on a project that explores the ways NLP can be used to extract insights from economics text data 📚
- - I'm mainly interested in NLP, Information Retrieval and RAG, and Computational Economics, as well as the theory of Deep Learning and Language Modeling.
- - I'm currently learning how to combine huge datasets and modern NLP models efficiently 🔭
+**Currently:**
+- 🔬 [DEQN-JAX](https://deqn-jax.github.io/) — JAX implementation of
+  deep equilibrium nets for economics 
+- 🧪 Per-rule evaluation of Russian GEC → talk at BEA 2026
+- 📚 Mech interp, persona conditioning — on the side
 
-<!--
-**mechanicpanic/mechanicpanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Switzerland · 📫 anna.smirnova@unil.ch
